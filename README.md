@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nicholasneborovsky1. I have a job at Naughty Dog as a Game Developer and a job at Capcom as a Game Producer. I have made a film series "The Insanity" planned by some friends in 2019 at their house, it became a hit.
+- 👀 I’m interested in nothing as of now.
+- 🌱 I’m currently learning Advanced C#, Advaned C++, Advanced Python
+- 💞️ I’m looking to collaborate on nothing.
+- 📫 How to reach me is by email "nneborovsky12@gmail.com" or my main/work number "312-366-4874"
